@@ -21,6 +21,7 @@
             <version>2.4</version>
         </dependency>
         <dependency>
+            <scope>test</scope>
             <artifactId>jfreechart</artifactId>
             <groupId>org.jfree</groupId>
             <version>1.0.14</version>

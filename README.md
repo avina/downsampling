@@ -25,3 +25,5 @@ Use class `DSAlgorithms` to get a downsampling algorithm.
   mixed.add(new TimeGapAlgorithm(), 0.1); // add TG with threshold * 0.1
   List<Event> downsampled = mixed.process(rawData, threshold); // do downsampling
 ```
+# Demo
+Run `DownsampleTest`.
