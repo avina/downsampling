@@ -1,6 +1,6 @@
 # 关于本项目
-时序数据降采样算法（LTOB, LTTB, LTD, OSI-PI Plot 等）的Java实现.
-[README - English](https://github.com/alibaba/druid/blob/master/README_en.md)
+时序数据降采样算法（LTOB, LTTB, LTD, OSI-PI Plot 等）的Java实现。<br/>
+[README - English](https://github.com/avina/downsampling/blob/master/README_en.md)
 # 算法
 * LTOB: Largest-Triangel-One-Bucket
 * LTTB: Largest-Triangel-Three-Bucket
